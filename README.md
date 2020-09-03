@@ -15,5 +15,6 @@ This project was a part of the end test of the computer vision course.
 
 This project was created by:
 * https://github.com/patrykkaluzny
+* https://github.com/dawid1311
 
 
